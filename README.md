@@ -79,5 +79,4 @@ python src/evaluator.py
 
 ---
 
-Still on maintenance
-# synthetic-financial-data
+**Note**: This is a draft
